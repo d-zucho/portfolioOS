@@ -35,7 +35,7 @@ export const NAV_ICONS = [
 	},
 ];
 
-export const DOCK_APS = [
+export const DOCK_APPS = [
 	{
 		id: "finder",
 		name: "Portfolio", // was "Finder"
