@@ -1,7 +1,7 @@
 import { Draggable } from "gsap/Draggable";
 import gsap from "gsap";
 
-import {Dock, Navbar, Welcome} from "@components";
+import {Dock, Navbar, Welcome, Home} from "@components";
 import {
 	Finder,
 	Resume,
@@ -28,6 +28,7 @@ const App = () => {
 		<Text />
 		<Image />
 		<Contact />
+		<Home />
 	</main>
 	);
 };
